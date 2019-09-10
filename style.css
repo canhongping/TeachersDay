@@ -1,0 +1,25 @@
+body{
+  margin:0;
+  font: normal 16px Arial, Helvetica, sand-serif;
+  color:#333;
+}
+
+#particles-js{
+  background:Aquamarine;
+  height:650px;
+}
+
+#bubble {
+    font-size: 45px;
+    font-family: Comic Sans MS, Verdana, monospace;
+    color: #2d509b;
+    font-weight: bold;
+    position: absolute;
+  	background-color:white;
+  	top:200;
+  	left:300;
+  	color:black;
+  	opacity: 0.8;
+    text-align: center;
+}
+
